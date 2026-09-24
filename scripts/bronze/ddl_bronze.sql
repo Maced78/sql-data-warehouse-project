@@ -20,10 +20,10 @@ cst_gndr NVARCHAR(30),
 cst_create_date DATE
 );
 
-IF OBJECT_ID('bronze.prd_info','U') IS NOT NULL
-	DROP TABLE bronze.prd_info
+IF OBJECT_ID('bronze.crm_prd_info','U') IS NOT NULL
+	DROP TABLE bronze.crm_prd_info
 
-CREATE TABLE bronze.prd_info (
+CREATE TABLE bronze.crm_prd_info (
 
 prd_id INT,
 prd_key NVARCHAR(50),
