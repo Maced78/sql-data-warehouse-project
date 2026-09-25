@@ -1,0 +1,145 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="qGOXAZzcXCH8bb_c_4O6">
+    <mxGraphModel dx="1364" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iORO009AOCle-OcRl8Uj-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" value="" vertex="1">
+          <mxGeometry height="515" width="580" x="750" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="iORO009AOCle-OcRl8Uj-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" value="" vertex="1">
+          <mxGeometry height="515" width="665" x="20" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="iORO009AOCle-OcRl8Uj-1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="&lt;font face=&quot;Verdana&quot;&gt;crm_cust_info&lt;/font&gt;" vertex="1">
+          <mxGeometry height="110" width="220" x="420" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="iORO009AOCle-OcRl8Uj-2" parent="iORO009AOCle-OcRl8Uj-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;" value="&lt;font face=&quot;Verdana&quot;&gt;cst_id&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iORO009AOCle-OcRl8Uj-24" parent="iORO009AOCle-OcRl8Uj-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;" value="&lt;font face=&quot;Verdana&quot;&gt;cst_key&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="220" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CQNPx4xgWEW49CkOh-rd-21" parent="iORO009AOCle-OcRl8Uj-1" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontFamily=Verdana;" value="Customer" vertex="1">
+          <mxGeometry height="20" width="220" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iORO009AOCle-OcRl8Uj-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Verdana&quot;&gt;Customer information&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="220" x="420" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="iORO009AOCle-OcRl8Uj-10" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="&lt;font face=&quot;Verdana&quot;&gt;crm_prd_info&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="220" x="420" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="iORO009AOCle-OcRl8Uj-11" parent="iORO009AOCle-OcRl8Uj-10" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;" value="&lt;font face=&quot;Verdana&quot;&gt;prd_key&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CQNPx4xgWEW49CkOh-rd-1" parent="iORO009AOCle-OcRl8Uj-10" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontFamily=Verdana;" value="Products" vertex="1">
+          <mxGeometry height="20" width="220" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iORO009AOCle-OcRl8Uj-14" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="&lt;font face=&quot;Verdana&quot;&gt;crm_sales_details&lt;/font&gt;" vertex="1">
+          <mxGeometry height="110" width="220" x="50" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="iORO009AOCle-OcRl8Uj-15" parent="iORO009AOCle-OcRl8Uj-14" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;" value="&lt;font face=&quot;Verdana&quot;&gt;cst_id&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iORO009AOCle-OcRl8Uj-17" parent="iORO009AOCle-OcRl8Uj-14" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;" value="prd_key" vertex="1">
+          <mxGeometry height="30" width="220" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CQNPx4xgWEW49CkOh-rd-24" parent="iORO009AOCle-OcRl8Uj-14" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontFamily=Verdana;" value="Sales" vertex="1">
+          <mxGeometry height="20" width="220" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iORO009AOCle-OcRl8Uj-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Verdana&quot;&gt;Sales &amp;amp; Orders information&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="220" x="50" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="iORO009AOCle-OcRl8Uj-18" edge="1" parent="1" source="iORO009AOCle-OcRl8Uj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.006;entryY=0.122;entryDx=0;entryDy=0;entryPerimeter=0;" target="iORO009AOCle-OcRl8Uj-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="415" />
+              <mxPoint x="340" y="323.67" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iORO009AOCle-OcRl8Uj-20" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="&lt;font face=&quot;Verdana&quot;&gt;erp_cust_az12&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="220" x="960" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="iORO009AOCle-OcRl8Uj-21" parent="iORO009AOCle-OcRl8Uj-20" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;" value="&lt;font face=&quot;Verdana&quot;&gt;cid&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CQNPx4xgWEW49CkOh-rd-23" parent="iORO009AOCle-OcRl8Uj-20" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontFamily=Verdana;" value="Customer" vertex="1">
+          <mxGeometry height="20" width="220" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iORO009AOCle-OcRl8Uj-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Verdana&quot;&gt;Extra customer information (birthdate)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="220" x="960" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="iORO009AOCle-OcRl8Uj-26" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="&lt;font face=&quot;Verdana&quot;&gt;erp_px_cat_g1v2&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="220" x="960" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="iORO009AOCle-OcRl8Uj-27" parent="iORO009AOCle-OcRl8Uj-26" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;" value="&lt;font face=&quot;Verdana&quot;&gt;id&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CQNPx4xgWEW49CkOh-rd-20" parent="iORO009AOCle-OcRl8Uj-26" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontFamily=Verdana;" value="Products" vertex="1">
+          <mxGeometry height="20" width="220" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iORO009AOCle-OcRl8Uj-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Verdana&quot;&gt;Extra customer information&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="220" x="960" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="iORO009AOCle-OcRl8Uj-29" edge="1" parent="1" source="iORO009AOCle-OcRl8Uj-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="iORO009AOCle-OcRl8Uj-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="960" y="660" />
+              <mxPoint x="800" y="660" />
+              <mxPoint x="800" y="515" />
+            </Array>
+            <mxPoint x="710" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iORO009AOCle-OcRl8Uj-25" edge="1" parent="1" source="iORO009AOCle-OcRl8Uj-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="iORO009AOCle-OcRl8Uj-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iORO009AOCle-OcRl8Uj-31" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="&lt;font face=&quot;Verdana&quot;&gt;erp_loc_a101&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="220" x="960" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="iORO009AOCle-OcRl8Uj-32" parent="iORO009AOCle-OcRl8Uj-31" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;" value="&lt;font face=&quot;Verdana&quot;&gt;cid&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CQNPx4xgWEW49CkOh-rd-22" parent="iORO009AOCle-OcRl8Uj-31" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontFamily=Verdana;" value="Customer" vertex="1">
+          <mxGeometry height="20" width="220" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iORO009AOCle-OcRl8Uj-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Verdana&quot;&gt;Extra customer information (counrty)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="220" x="960" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="iORO009AOCle-OcRl8Uj-34" edge="1" parent="1" source="iORO009AOCle-OcRl8Uj-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" target="iORO009AOCle-OcRl8Uj-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="960" y="500" />
+              <mxPoint x="800" y="500" />
+              <mxPoint x="800" y="365" />
+            </Array>
+            <mxPoint x="900" y="440" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iORO009AOCle-OcRl8Uj-37" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=1;fillColor=default;" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 31px;&quot;&gt;CRM&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="100" x="290" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="iORO009AOCle-OcRl8Uj-41" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=1;fillColor=default;" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 31px;&quot;&gt;ERP&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="100" x="990" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="CQNPx4xgWEW49CkOh-rd-3" edge="1" parent="1" source="iORO009AOCle-OcRl8Uj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="iORO009AOCle-OcRl8Uj-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="430" />
+              <mxPoint x="340" y="430" />
+              <mxPoint x="340" y="515" />
+            </Array>
+            <mxPoint x="350" y="511.31" as="sourcePoint" />
+            <mxPoint x="380" y="515" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CQNPx4xgWEW49CkOh-rd-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Verdana&quot;&gt;Product&lt;/font&gt;&lt;span style=&quot;font-family: Verdana; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;information&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="220" x="590" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CQNPx4xgWEW49CkOh-rd-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Verdana&quot;&gt;Product&lt;/font&gt;&lt;span style=&quot;font-family: Verdana; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;information&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="220" x="420" y="440" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
